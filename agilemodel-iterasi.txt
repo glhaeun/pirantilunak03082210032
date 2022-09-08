@@ -2,3 +2,6 @@ specification
 a
 b
 c
+customer input
+d
+e
